@@ -2,6 +2,10 @@
 
 export(connectMySQL5.5)
 export(dcMySQL5.5)
+export(query)
 importFrom(RMySQL,MySQL)
+importFrom(RMySQL,dbClearResult)
 importFrom(RMySQL,dbConnect)
 importFrom(RMySQL,dbDisconnect)
+importFrom(RMySQL,dbFetch)
+importFrom(RMySQL,dbSendQuery)
