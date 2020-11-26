@@ -12,3 +12,6 @@ License: Apache License 2.0
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
+    RMySQLURL: https://meerapatelmd.github.io/preql/, https://github.com/meerapatelmd/preql/BugReports: https://github.com/meerapatelmd/preql/issues/ 
+
+ 
